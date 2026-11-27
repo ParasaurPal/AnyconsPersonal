@@ -1,0 +1,6 @@
+{
+  "name": "Fjord Icons",
+  "description": "Niagara-style minimalist icon pack studio for personalized home screen customization and export to major third-party launchers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

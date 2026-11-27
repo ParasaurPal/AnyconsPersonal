@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Fjord Icons</string>
+    <string name="nav_studio">Studio</string>
+    <string name="nav_icons">Icons</string>
+    <string name="nav_preview">Preview</string>
+    <string name="nav_export">Export</string>
+    <string name="action_export">Export</string>
+    <string name="action_new_pack">New Pack</string>
+    <string name="action_add_app">Add App</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_share">Share</string>
+    <string name="action_save_file">Save to Files</string>
+    <string name="cd_app_icon_preview">Rendered Niagara style icon preview</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_wallpaper_preview">Home screen wallpaper preview</string>
+</resources>
